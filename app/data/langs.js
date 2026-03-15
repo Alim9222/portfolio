@@ -28,10 +28,10 @@ export const langs = {
     ru: "Фронтенд-разработчик 24 года, Душанбе",
   },
   about_info_1: {
-    en: `   Hi, I'm Denis – Frontend developer from Dushanbe I'm
+    en: `   Hi, I'm Alim – Frontend developer from Dushanbe I'm
             interested in design and everything connected with it.`,
 
-    ru: `Привет, я Денис – Frontend-разработчик из Душанбе. Мне
+    ru: `Привет, я Алим – Frontend-разработчик из Душанбе. Мне
           интересен дизайн и все, что с ним связано.`,
   },
 
